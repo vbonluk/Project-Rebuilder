@@ -17,7 +17,7 @@ Now you can perfect use in Xcode project.
 
 In the future, I will support java project etc.
 
-But do be sad, if you want to use in java project or another project ?
+But don't be sad, if you want to use in java project or another project ?
 
 Just edit this files :
 
