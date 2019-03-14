@@ -40,7 +40,7 @@ def main(fileDir,projectName_repalceStr,prefixName_repalceStr,new_projectName,ne
         new_edit_path = new_folder_path.replace(projectName_repalceStr,new_projectName)
         fileNameReplace.main(new_edit_path,projectName_repalceStr,prefixName_repalceStr,new_projectName,new_prefixName)
         contentReplace.main(new_edit_path,projectName_repalceStr,prefixName_repalceStr,new_projectName,new_prefixName)
-        commentReplace.main(new_edit_path,copyright_str=projectName_repalceStr,website=website)
+        commentReplace.main(new_edit_path,copyright_str=new_projectName,website=website)
 
         # 检查是否有podfile
         podfile_path = new_edit_path + '/Podfile'
