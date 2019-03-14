@@ -1,0 +1,11 @@
+.DS_Store
+.xib
+.plist
+Pod
+.git
+.html
+.lproj
+.xcassets
+.a
+main.m
+xcuserdata

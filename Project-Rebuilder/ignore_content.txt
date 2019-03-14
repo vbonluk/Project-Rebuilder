@@ -1,0 +1,15 @@
+.DS_Store
+.xib
+.plist
+Pod
+[+exception+]Podfile[+exception+]
+.git
+.html
+.lproj
+.xcassets
+.a
+main.m
+xcshareddata
+xcuserdata
+Resource
+.entitlements
