@@ -2,7 +2,7 @@
 
 #### Python 3.6 Suppport
 
-This tool is helping people who want to rebuild there project with another name.
+This tool is helping people who want to rebuild their project using another name.
 
 Like that:
 
